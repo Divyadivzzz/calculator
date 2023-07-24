@@ -1,0 +1,13 @@
+.cont{
+    height: 300px;
+    width: 400px;
+    background-color: rgb(216, 112, 147,0.4);
+
+    
+}
+body{
+    height: 600px;
+    background-image: linear-gradient(pink, blue);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
